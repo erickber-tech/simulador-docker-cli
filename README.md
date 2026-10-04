@@ -34,3 +34,4 @@ Actúa como desarrollador Python y crea un simulador de Docker CLI que permita e
 Prompt 2:
 
 Agrega validaciones para impedir eliminar contenedores que estén activos.
+## Proyecto académico
